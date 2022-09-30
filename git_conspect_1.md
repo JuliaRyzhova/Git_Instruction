@@ -32,3 +32,9 @@
 2. ***Ctrl + S*** - сохраняем наши изменения;
 3. ***git add*** -  добавляем в *git* наши изменения;
 4. ***git commit -m*** - присваиваем нашим изменениям название.
+
+## Полезные ссылки по теме:
+* [Git для новичков (часть 1)](https://habr.com/ru/post/541258/)
+* [Git для новичков (часть 2)](https://habr.com/ru/post/542616/)
+* [Тренажер по Git](https://learngitbranching.js.org/?locale=ru_RU)
+* [Шпоргалка по Markdown](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
