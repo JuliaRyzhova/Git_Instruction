@@ -86,5 +86,9 @@ __*Этот файл обязательно должен находится в �
 ## Полезные ссылки по теме:
 * [Git для новичков (часть 1)](https://habr.com/ru/post/541258/)
 * [Git для новичков (часть 2)](https://habr.com/ru/post/542616/)
+* [Настройка репозитория](https://www.atlassian.com/ru/git/tutorials/setting-up-a-repository)
+* [Сохранение изменений](https://www.atlassian.com/ru/git/tutorials/saving-changes)
+* [Проверка репозитория](https://www.atlassian.com/ru/git/tutorials/inspecting-a-repository)
+* [Отмена изменений](https://www.atlassian.com/ru/git/tutorials/undoing-changes)
 * [Тренажер по Git](https://learngitbranching.js.org/?locale=ru_RU)
 * [Шпоргалка по Markdown](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
